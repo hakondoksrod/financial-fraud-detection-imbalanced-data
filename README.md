@@ -1,4 +1,4 @@
-# Handling imbalanced data and predicting financial fraud with machine learning
+# Predicting financial fraud with machine learning and handling imbalanced data
 This project attempts to use different strategies for handling an imbalanced financial fraud dataset and to build and deploy a machine learning model for predicting fraudulent transactions.
 
 Project blog post can be found here: https://hakon-doksrod.medium.com/financial-fraud-detection-and-handling-imbalanced-data-in-machine-learning-4c9541ae6830
