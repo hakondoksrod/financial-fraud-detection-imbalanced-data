@@ -30,3 +30,8 @@ In a real world context, my assumption is that a financial institution will want
 Using the XGBoost classifier, i built three models, one for each imbalanced data strategy. All models performed very well in terms of AUC score, all three above 0.99. All three models also performed excellently on false negatives. One model stood out in terms of false positive performance, and that was the model using oversampled data.
 
 As all models were very good on what I defined as the most important metric, namely false negatives, the "winner" was decided by the performance on the secondary metric, false positives. A good performance here can possible save a financial institution a lot of money on unnecessary transaction verification work.
+
+## Resources
+https://www.kaggle.com/ntnu-testimon/paysim1
+https://towardsdatascience.com/the-main-issue-with-identifying-financial-fraud-using-machine-learning-and-how-to-address-it-3b1bf8fa1e0c
+https://www.svds.com/learning-imbalanced-classes/
